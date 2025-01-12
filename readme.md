@@ -21,7 +21,7 @@ A modern, responsive portfolio website built to practice and showcase frontend d
 ## 📁 Project Structure
 
 ```
-portfolio-website/
+bug-panda/
 ├── index.html
 ├── css/
 │   └── index.css
