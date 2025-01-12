@@ -1,4 +1,4 @@
-# A Portfolio Website(For Practice Purpose)
+# Bug Panda A Portfolio Website(For Practice Purpose)
 
 A modern, responsive portfolio website built to practice and showcase frontend development skills, with a particular focus on SCSS implementation.
 
